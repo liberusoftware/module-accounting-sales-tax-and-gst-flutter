@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-sales-tax-and-gst-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-sales-tax-and-gst",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_sales_tax_and_gst_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/sales-tax-and-gst.md",
+  "presentationPlan": "projects/accounting/flutter/sales-tax-and-gst.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
